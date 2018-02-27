@@ -15,3 +15,7 @@ This is just an idea at the moment
 
 # IS THIS USELESS
 Sure it is.  It's just as easy to Shift+Tab to use your OpenCad.  However, this is just for RP purposes.
+
+# HOW NARP USES THIS
+- Pat pushes civ character and vehicle data to existing ESX database
+- script reads those tables
